@@ -95,12 +95,7 @@ int main()
 	std::string player1;
 	std::string player2;
 	int p1Guess{};
-	int p2Guess{};
-	int finalNum{};
-
-	
-	
-	
+	int p2Guess{};	
 	
 	std::cout << "Number Guessing Game" << std::endl;
 	std::cout << "Press 1 to Exit" << std::endl;
